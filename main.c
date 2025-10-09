@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "tp4.h"
 main()
 {   /*
     //add 2 number

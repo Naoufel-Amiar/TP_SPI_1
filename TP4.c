@@ -1,8 +1,8 @@
+#include "tp4.h"
 #include <stdio.h>
+
 int TARIF_AFFRANCHISSELENTS()
 {
-    //TARIF_AFFRANCHISSELENTS
-
     float poids,tarif;
 
     printf("Entrez un poids svp\n");
@@ -20,10 +20,7 @@ int TARIF_AFFRANCHISSELENTS()
     {
          tarif = 6.70;
     }
-
-    printf("Le tarif est de %.2f €\n",tarif);
-
-
+    printf("Le tarif est de %.2f Euros\n",tarif);
     return 0;
 }
 
