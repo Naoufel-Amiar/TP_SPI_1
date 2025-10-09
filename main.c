@@ -10,6 +10,15 @@ main()
     c=a+b;
     printf("The Number is %d",c);
     */
-    TARIF_AFFRANCHISSELENTS();
+
+
+    //TARIF_AFFRANCHISSELENTS();
+
+    //CalculCarreNombre();
+
+    //CalculCapital();
+
+    CarreDeDix();
+
     return 0;
 }
