@@ -1,6 +1,6 @@
 #include <stdio.h>
 main()
-{
+{   /*
     //add 2 number
     int a,b,c;
     printf("enter the first number\n");
@@ -9,5 +9,7 @@ main()
     scanf("%d",&b);
     c=a+b;
     printf("The Number is %d",c);
-
+    */
+    TARIF_AFFRANCHISSELENTS();
+    return 0;
 }
