@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "tp4.h"*
 #include "tp1.h"
+#include "tp1-2.h"
 
 
 main()
@@ -25,13 +26,21 @@ main()
     //CarreDeDix();
 
 
+
     //Somme_Prog_Prof();
 
     //Somme_Prog_TantQue_Faire();
 
     //Somme_Prog_Faire_TantQue();
 
-    Somme_Prog_Faire_Pour();
+    //Somme_Prog_Faire_Pour();
+
+
+    //Somme_1_2_Prog_Prof();
+
+    //Somme_1_2_While();
+
+    Somme_1_2_DoWhile();
 
     return 0;
 }
