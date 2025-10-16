@@ -1,5 +1,8 @@
 #include <stdio.h>
-#include "tp4.h"
+#include "tp4.h"*
+#include "tp1.h"
+
+
 main()
 {   /*
     //add 2 number
@@ -19,7 +22,16 @@ main()
 
     //CalculCapital();
 
-    CarreDeDix();
+    //CarreDeDix();
+
+
+    //Somme_Prog_Prof();
+
+    //Somme_Prog_TantQue_Faire();
+
+    //Somme_Prog_Faire_TantQue();
+
+    Somme_Prog_Faire_Pour();
 
     return 0;
 }

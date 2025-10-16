@@ -57,13 +57,13 @@ int CalculCapital()
 
         CapFin = CapIni;
 
-
-        while (CapFin <= 2*CapIni)
+        do
         {
             Compteur = Compteur + 1;
-
             CapFin = CapFin * (1 + Taux);
         }
+        while (CapFin <= 2*CapIni);
+
         printf("Le capital final est %f\n",CapFin);
         printf("Compteur de repetitions a : %d\n",Compteur);
 
@@ -80,4 +80,3 @@ int CarreDeDix()
     }
 
 }
-

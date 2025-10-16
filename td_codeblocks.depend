@@ -1,10 +1,16 @@
 # depslib dependency file v1.0
-1760036808 source:c:\users\lescr\documents\td_codeblocks\main.c
+1760610233 source:c:\users\lescr\documents\td_codeblocks\main.c
 	<stdio.h>
+	"tp4.h"
+	"tp1.h"
 
-1760038022 source:c:\users\lescr\documents\td_codeblocks\tp4.c
+1760608301 source:c:\users\lescr\documents\td_codeblocks\tp4.c
 	"tp4.h"
 	<stdio.h>
 
-1760038022 c:\users\lescr\documents\td_codeblocks\tp4.h
+1760605885 c:\users\lescr\documents\td_codeblocks\tp4.h
+
+1760610175 c:\users\lescr\documents\td_codeblocks\tp1.h
+
+1760611072 source:c:\users\lescr\documents\td_codeblocks\tp1.c
 
