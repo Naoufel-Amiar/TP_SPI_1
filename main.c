@@ -43,7 +43,12 @@ main()
     //Somme_1_2_DoWhile();
 
 
-    Etoile_Forme();
+    //Etoile_Forme();
+
+    //Suite();
+
+    NB_Premier() ;
+
 
     return 0;
 }

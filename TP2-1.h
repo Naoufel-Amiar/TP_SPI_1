@@ -2,6 +2,8 @@
 #define TP1_H
 
 int Etoile_Forme(void);
+int Suite(void);
+int NB_Premier(void);
 
 
 
