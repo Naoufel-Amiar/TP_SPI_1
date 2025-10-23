@@ -40,7 +40,10 @@ main()
 
     //Somme_1_2_While();
 
-    Somme_1_2_DoWhile();
+    //Somme_1_2_DoWhile();
+
+
+    Etoile_Forme();
 
     return 0;
 }

@@ -31,6 +31,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="TP1-2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TP1-2.h" />
+		<Unit filename="TP1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TP1.h" />
 		<Unit filename="TP4.c">
 			<Option compilerVar="CC" />
 		</Unit>
