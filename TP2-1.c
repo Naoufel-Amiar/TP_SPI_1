@@ -42,7 +42,7 @@ int Suite()
 }
 
 
-NB_Premier()
+int NB_Premier()
 {
     int n, i;
     int premier = 1;

@@ -39,6 +39,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="TP1.h" />
+		<Unit filename="TP2-1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TP2-1.h" />
 		<Unit filename="TP4.c">
 			<Option compilerVar="CC" />
 		</Unit>
