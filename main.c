@@ -1,10 +1,11 @@
 #include <stdio.h>
-#include "tp4.h"*
+#include "tp4.h"
 #include "tp1.h"
 #include "tp1-2.h"
+#include "TP_PI.h"
 
 
-main()
+int main(void)
 {   /*
     //add 2 number
     int a,b,c;
@@ -47,7 +48,10 @@ main()
 
     //Suite();
 
-    NB_Premier() ;
+    //NB_Premier();
+
+
+    CalculPi();
 
 
     return 0;

@@ -1,5 +1,5 @@
-#ifndef TP1-2_H
-#define TP1-2_H
+#ifndef TP1_2_H
+#define TP1_2_H
 
 
 int Somme_1_2_Prog_Prof(void);

@@ -1,25 +1,36 @@
 # depslib dependency file v1.0
-1761218322 source:c:\users\lescr\documents\td_codeblocks\main.c
+1762424558 source:c:\users\lescr\documents\td_codeblocks\main.c
 	<stdio.h>
 	"tp4.h"
 	"tp1.h"
 	"tp1-2.h"
+	"TP_PI.h"
 
-1760608301 source:c:\users\lescr\documents\td_codeblocks\tp4.c
+1760604701 source:c:\users\lescr\documents\td_codeblocks\tp4.c
 	"tp4.h"
 	<stdio.h>
 
-1760605885 c:\users\lescr\documents\td_codeblocks\tp4.h
+1760602285 c:\users\lescr\documents\td_codeblocks\tp4.h
 
-1760610175 c:\users\lescr\documents\td_codeblocks\tp1.h
+1760606575 c:\users\lescr\documents\td_codeblocks\tp1.h
 
-1760611072 source:c:\users\lescr\documents\td_codeblocks\tp1.c
+1760607472 source:c:\users\lescr\documents\td_codeblocks\tp1.c
 
-1760615492 c:\users\lescr\documents\td_codeblocks\tp1-2.h
+1762419133 c:\users\lescr\documents\td_codeblocks\tp1-2.h
 
-1760615613 source:c:\users\lescr\documents\td_codeblocks\tp1-2.c
+1760612013 source:c:\users\lescr\documents\td_codeblocks\tp1-2.c
 
-1761218322 source:c:\users\lescr\documents\td_codeblocks\tp2-1.c
+1762419163 source:c:\users\lescr\documents\td_codeblocks\tp2-1.c
 	<stdio.h>
 	<stdlib.h>
+	"tp2-1.h"
+
+1762424283 source:c:\users\lescr\documents\td_codeblocks\tp_pi.c
+	"tp_pi.h"
+	<stdio.h>
+	<math.h>
+
+1762418722 c:\users\lescr\documents\td_codeblocks\tp_pi.h
+
+1761214722 c:\users\lescr\documents\td_codeblocks\tp2-1.h
 

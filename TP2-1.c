@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "tp2-1.h"
+
 
 int Etoile_Forme()
 {
