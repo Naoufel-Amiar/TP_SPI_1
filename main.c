@@ -51,7 +51,10 @@ int main(void)
     //NB_Premier();
 
 
-    CalculPi();
+    //CalculPi();
+
+
+    Equal_Table();
 
 
     return 0;

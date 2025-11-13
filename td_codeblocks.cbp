@@ -47,6 +47,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="TP4.h" />
+		<Unit filename="TP_PI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TP_PI.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

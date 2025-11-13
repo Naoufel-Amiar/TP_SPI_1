@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1762424558 source:c:\users\lescr\documents\td_codeblocks\main.c
+1763026064 source:c:\users\lescr\documents\td_codeblocks\main.c
 	<stdio.h>
 	"tp4.h"
 	"tp1.h"
@@ -16,21 +16,29 @@
 
 1760607472 source:c:\users\lescr\documents\td_codeblocks\tp1.c
 
-1762419133 c:\users\lescr\documents\td_codeblocks\tp1-2.h
+1762425183 c:\users\lescr\documents\td_codeblocks\tp1-2.h
 
 1760612013 source:c:\users\lescr\documents\td_codeblocks\tp1-2.c
 
-1762419163 source:c:\users\lescr\documents\td_codeblocks\tp2-1.c
+1762425183 source:c:\users\lescr\documents\td_codeblocks\tp2-1.c
 	<stdio.h>
 	<stdlib.h>
 	"tp2-1.h"
 
-1762424283 source:c:\users\lescr\documents\td_codeblocks\tp_pi.c
+1762425183 source:c:\users\lescr\documents\td_codeblocks\tp_pi.c
 	"tp_pi.h"
 	<stdio.h>
 	<math.h>
 
-1762418722 c:\users\lescr\documents\td_codeblocks\tp_pi.h
+1762425183 c:\users\lescr\documents\td_codeblocks\tp_pi.h
 
 1761214722 c:\users\lescr\documents\td_codeblocks\tp2-1.h
+
+1763026287 source:c:\users\lescr\documents\td_codeblocks\tp6.c
+	"tp6.h"
+	<stdio.h>
+	"tp6.h"
+	<stdio.h>
+
+1763025049 c:\users\lescr\documents\td_codeblocks\tp6.h
 
