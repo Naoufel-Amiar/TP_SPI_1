@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "tp5.h"
 #include "tp4.h"
 #include "tp1.h"
 #include "tp1-2.h"
@@ -54,8 +55,20 @@ int main(void)
     //CalculPi();
 
 
-    Equal_Table();
+    //Calcul_Facto();
 
+
+    //Equal_Table();
+
+    //Minimum_Table();
+
+    //Maximum_Table();
+
+    //Amplitude_minimum_V1();
+
+    //Amplitude_minimum_V2();
+
+    Moyenne_Table();
 
     return 0;
 }

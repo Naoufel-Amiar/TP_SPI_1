@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1763026064 source:c:\users\lescr\documents\td_codeblocks\main.c
+1763590817 source:c:\users\lescr\documents\td_codeblocks\main.c
 	<stdio.h>
+	"tp5.h"
 	"tp4.h"
 	"tp1.h"
 	"tp1-2.h"
@@ -34,11 +35,17 @@
 
 1761214722 c:\users\lescr\documents\td_codeblocks\tp2-1.h
 
-1763026287 source:c:\users\lescr\documents\td_codeblocks\tp6.c
+1763590558 source:c:\users\lescr\documents\td_codeblocks\tp6.c
 	"tp6.h"
 	<stdio.h>
 	"tp6.h"
 	<stdio.h>
 
-1763025049 c:\users\lescr\documents\td_codeblocks\tp6.h
+1763589911 c:\users\lescr\documents\td_codeblocks\tp6.h
+
+1763585707 c:\users\lescr\documents\td_codeblocks\tp5.h
+
+1763585917 source:c:\users\lescr\documents\td_codeblocks\tp5.c
+	"tp5.h"
+	<stdio.h>
 
