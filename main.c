@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "tp5.h"
+#include "TP3.h"
 #include "tp4.h"
 #include "tp1.h"
 #include "tp1-2.h"
 #include "TP_PI.h"
-
 
 int main(void)
 {   /*
@@ -18,7 +18,7 @@ int main(void)
     printf("The Number is %d",c);
     */
 
-
+    srand(time(NULL));
     //TARIF_AFFRANCHISSELENTS();
 
     //CalculCarreNombre();
@@ -52,7 +52,7 @@ int main(void)
     //NB_Premier();
 
 
-    //CalculPi();
+    //Calcdouble CalculSurface(void)ulPi();
 
 
     //Calcul_Facto();
@@ -68,7 +68,20 @@ int main(void)
 
     //Amplitude_minimum_V2();
 
-    Moyenne_Table();
+    //Moyenne_Table();
+
+
+    //CalculSurface();
+
+    //MinMaxNumberListInsert();
+
+
+
+    //Tableau_1_V1();
+
+    Tableau_1_V2();
+
+    //
 
     return 0;
 }

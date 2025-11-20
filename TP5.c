@@ -11,7 +11,7 @@ long Calcul_Facto()
     int n, i;
     long U;
 
-    printf("Donnez le rang de la suite : ");
+    printf("Donnez le Chiffre pour la factorielle : ");
     scanf("%d", &n);
 
     i = 0;
@@ -23,7 +23,7 @@ long Calcul_Facto()
         U = f(i, U);
     }
 
-    printf("Terme de rang %d = %ld\n", n, U);
+    printf("Valeur pour %d = %ld\n", n, U);
 
     return U;
 }
