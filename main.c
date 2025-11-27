@@ -79,9 +79,12 @@ int main(void)
 
     //Tableau_1_V1();
 
-    Tableau_1_V2();
+    //Tableau_1_V2();
 
-    //
+    //Exo2_1();
 
+    //Exo2_2();
+
+    Exo3_ProduitScalaire();
     return 0;
 }

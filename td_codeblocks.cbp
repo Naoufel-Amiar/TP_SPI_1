@@ -43,10 +43,18 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="TP2-1.h" />
+		<Unit filename="TP3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TP3.h" />
 		<Unit filename="TP4.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="TP4.h" />
+		<Unit filename="TP4TABLEAU.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TP4TABLEAU.h" />
 		<Unit filename="TP5.c">
 			<Option compilerVar="CC" />
 		</Unit>

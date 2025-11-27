@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1763642513 source:c:\users\lescr\documents\td_codeblocks\main.c
+1764235462 source:c:\users\lescr\documents\td_codeblocks\main.c
 	<stdio.h>
 	"tp5.h"
 	"TP3.h"
@@ -56,11 +56,12 @@
 	"tp3.h"
 	"stdio.h"
 
-1763642483 source:c:\users\lescr\documents\td_codeblocks\tp4tableau.c
+1764235462 source:c:\users\lescr\documents\td_codeblocks\tp4tableau.c
 	"tp4tableau.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
+	<stdio.h>
 
-1763642483 c:\users\lescr\documents\td_codeblocks\tp4tableau.h
+1764235462 c:\users\lescr\documents\td_codeblocks\tp4tableau.h
 
